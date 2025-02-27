@@ -1,0 +1,12 @@
+                                                                   Assignment 1
+2) What is the 4th column of the Customers table?                                                               
+Answer:-Rating is the 4th column.
+
+3) What is another word for row? For column?
+Answer:- Another word for row is record or tuple and for the column is field or attribute.
+
+4) Why isn’t it possible to see the first five rows of a table?
+Answer:- It is not possible to see the first 'N' row of the table or the last 'N' row of the table.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
